@@ -213,3 +213,68 @@ nav .menu li a{
     padding: 0px 24px;
     
 }
+
+#brain{
+    width: 100%;
+    max-width: 1600px;
+    height: 840px;
+    background-color: rgba(255, 255, 255, 1);   
+
+}
+
+.brain-content{
+    width: 100%;
+    max-width: 1360px;
+    height: 600px;
+    margin: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+.brain-image{
+    height: 600px;
+    width: 600px;
+}
+
+.brain-text{
+    text-align: left;
+
+}
+
+.brain-text h5{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 16px;
+    color: #30B868;
+}
+
+.brain-text h1{
+    font-weight: 700;
+    font-size: 48px;
+    color: #001931;
+    margin-bottom: 16px;
+
+}
+
+.brain-text p{
+    margin-bottom: 40px;
+}
+.bullet-text{
+
+    display: flex;
+    justify-content: left;
+    gap: 6px;
+    text-align: left;
+    margin-bottom: 16px;
+
+
+}
+.bullet-text h6{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: rgba(0, 25, 49, 1);
+}
