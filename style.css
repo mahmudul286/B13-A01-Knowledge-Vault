@@ -316,7 +316,6 @@ footer {
   font-weight: 500;
   margin-bottom: 16px;
   color: rgba(255, 255, 255, 1);
-
 }
 
 .footer-icon {
@@ -334,21 +333,19 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-
 }
 
-.fa-brands{
-  font-size: 14px; 
+.fa-brands {
+  font-size: 14px;
 }
 
-.copyright{
+.copyright {
   width: 1360px;
   text-align: center;
-  margin: 80px 120px ;
+  margin: 80px 120px;
   border-top: 1px solid rgba(229, 231, 235, 0.2);
-
 }
-.copyright p{
+.copyright p {
   margin-top: 30px;
   color: rgba(250, 250, 250, 1);
 }
